@@ -33,16 +33,6 @@ This portfolio showcases my projects, skills, and experience as a Full Stack Dev
 - Experience — education and learning timeline
 - Contact — form and social links
 
-## Getting Started
-
-Just open `index.html` in any browser — no build step needed.
-
-```bash
-git clone https://github.com/Swaliha1410/portfolio.git
-cd portfolio
-# open index.html in your browser
-```
-
 ## Contact
 
 - Email: salushaikh1410@gmail.com
